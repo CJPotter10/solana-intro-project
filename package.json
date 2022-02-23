@@ -1,0 +1,23 @@
+{
+  "name": "solana-intro-project",
+  "version": "1.0.0",
+  "description": "1. Install Rust from https://rustup.rs/\r 2. Install Solana from https://docs.solana.com/cli/install-solana-cli-tools#use-solanas-install-tool",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CJPotter10/solana-intro-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CJPotter10/solana-intro-project/issues"
+  },
+  "homepage": "https://github.com/CJPotter10/solana-intro-project#readme"
+}
